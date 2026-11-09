@@ -1,8 +1,7 @@
 # Calculadora em Python
 
 ## Sobre o projeto
-Criei esta calculadora como parte dos meus estudos de lógica de programação em Python, durante minha graduação em Engenharia de Software.
-
+Criei esta calculadora como primeiro projeto dos meus estudos de lógica de programação em Python.
 O objetivo foi praticar operações matemáticas, entrada de dados e estruturas condicionais, desenvolvendo um programa simples e funcional.
 
 ## Funcionalidades
